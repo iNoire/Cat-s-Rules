@@ -1,0 +1,16 @@
+{
+"companyName": "Dreamtale Games",
+"productName": "Cat's Rules",
+"productVersion": "1.1",
+"dataUrl": "Cat's Rules Web.data.unityweb",
+"wasmCodeUrl": "Cat's Rules Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cat's Rules Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
